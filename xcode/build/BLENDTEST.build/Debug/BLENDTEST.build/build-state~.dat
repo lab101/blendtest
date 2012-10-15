@@ -1,0 +1,196 @@
+TBLENDTEST
+v5
+r1
+cCheck dependencies
+cProcessInfoPlistFile /Users/kris/Documents/cinder_0.8.4_mac/lab101/BLENDTEST/xcode/./build/Debug/BLENDTEST.app/Contents/Info.plist Info.plist
+cCpResource CinderApp.icns ./build/Debug/BLENDTEST.app/Contents/Resources/CinderApp.icns
+cProcessPCH++ /var/folders/8b/4jhs3f817pz6q55x667zj7hh0000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/BLENDTEST_Prefix-cmpmricqbubfwtdtqqiedyaqedrc/BLENDTEST_Prefix.pch.pth BLENDTEST_Prefix.pch normal i386 c++ com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC ./build/BLENDTEST.build/Debug/BLENDTEST.build/Objects-normal/i386/BLENDTESTApp.o /Users/kris/Documents/cinder_0.8.4_mac/lab101/BLENDTEST/xcode/../src/BLENDTESTApp.cpp normal i386 c++ com.apple.compilers.llvm.clang.1_0.compiler
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.7.sdk
+c000000004F90F72900000000000000CC
+t1334900521
+s204
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.7.sdk/System/Library/Frameworks/Accelerate.framework/Accelerate
+c000000005079C5880000000000002400
+t1350157704
+s9216
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.7.sdk/System/Library/Frameworks/AudioToolbox.framework/AudioToolbox
+c000000005079C5890000000000023FF4
+t1350157705
+s147444
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.7.sdk/System/Library/Frameworks/AudioUnit.framework/AudioUnit
+c000000005079C58900000000000061F4
+t1350157705
+s25076
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.7.sdk/System/Library/Frameworks/Cocoa.framework/Headers/Cocoa.h
+c000000005079C58900000000000001E5
+t1350157705
+s485
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.7.sdk/System/Library/Frameworks/CoreAudio.framework/CoreAudio
+c000000005079C589000000000000E8A8
+t1350157705
+s59560
+
+N/System/Library/Frameworks/Carbon.framework/Carbon
+c000000004F35BCF00000000000006530
+t1328921840
+s25904
+
+N/System/Library/Frameworks/Cocoa.framework/Cocoa
+c000000004F35BCF00000000000006560
+t1328921840
+s25952
+
+N/System/Library/Frameworks/CoreVideo.framework/CoreVideo
+c000000004FB1359E000000000007CED0
+t1337013662
+s511696
+
+N/System/Library/Frameworks/OpenGL.framework/OpenGL
+c00000000506C0787000000000002D360
+t1349257095
+s185184
+
+N/System/Library/Frameworks/QTKit.framework/QTKit
+c00000000506C0B1A00000000004B9FB0
+t1349258010
+s4956080
+
+N/System/Library/Frameworks/QuickTime.framework/QuickTime
+c00000000506C0A87000000000032B7E0
+t1349257863
+s3323872
+
+N/Users/kris/Documents/cinder_0.8.4_mac/lab101/BLENDTEST/xcode/../src/BLENDTESTApp.cpp
+c00000000507C8C18000000000000032F
+t1350339608
+s815
+
+N/Users/kris/Documents/cinder_0.8.4_mac/lab101/BLENDTEST/xcode/./build/BLENDTEST.build/Debug/BLENDTEST.build/Objects-normal/i386/BLENDTEST.LinkFileList
+c00000000507C8C18000000000000008F
+t1350339608
+s143
+
+N/Users/kris/Documents/cinder_0.8.4_mac/lab101/BLENDTEST/xcode/./build/BLENDTEST.build/Debug/BLENDTEST.build/Objects-normal/i386/BLENDTESTApp.o
+t2
+s0
+
+N/Users/kris/Documents/cinder_0.8.4_mac/lab101/BLENDTEST/xcode/./build/Debug/BLENDTEST.app
+t2
+s0
+
+N/Users/kris/Documents/cinder_0.8.4_mac/lab101/BLENDTEST/xcode/./build/Debug/BLENDTEST.app/Contents/Info.plist
+t2
+s0
+
+N/Users/kris/Documents/cinder_0.8.4_mac/lab101/BLENDTEST/xcode/./build/Debug/BLENDTEST.app/Contents/MacOS/BLENDTEST
+t2
+s0
+
+N/Users/kris/Documents/cinder_0.8.4_mac/lab101/BLENDTEST/xcode/./build/Debug/BLENDTEST.app/Contents/PkgInfo
+t2
+s0
+
+N/Users/kris/Documents/cinder_0.8.4_mac/lab101/BLENDTEST/xcode/./build/Debug/BLENDTEST.app/Contents/Resources/CinderApp.icns
+t2
+s0
+
+N/Users/kris/Documents/cinder_0.8.4_mac/lab101/BLENDTEST/xcode/BLENDTEST_Prefix.pch
+c00000000507C8B520000000000000093
+t1350339410
+s147
+i<Cocoa/Cocoa.h>
+
+N/Users/kris/Documents/cinder_0.8.4_mac/lab101/BLENDTEST/xcode/CinderApp.icns
+c00000000507C8B52000000000001BEB5
+t1350339410
+s114357
+
+N/var/folders/8b/4jhs3f817pz6q55x667zj7hh0000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/BLENDTEST_Prefix-cmpmricqbubfwtdtqqiedyaqedrc/BLENDTEST_Prefix.pch.pth
+t2
+s0
+
+NInfo.plist
+c00000000507C8B52000000000000034F
+t1350339410
+s847
+
+CBuild AST from /Users/kris/Documents/cinder_0.8.4_mac/lab101/BLENDTEST/xcode/../src/BLENDTESTApp.cpp
+r0
+
+CCheck dependencies
+r0
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection18"Check dependenciesd28d4898c32cb641^28805698c32cb641^---0#1#0#--18"Check dependencies36"DA4E0191-2798-4324-BF56-95211E8F3B7E-
+
+CCompileC ./build/BLENDTEST.build/Debug/BLENDTEST.build/Objects-normal/i386/BLENDTESTApp.o /Users/kris/Documents/cinder_0.8.4_mac/lab101/BLENDTEST/xcode/../src/BLENDTESTApp.cpp normal i386 c++ com.apple.compilers.llvm.clang.1_0.compiler
+s372032408.449947
+e372032411.524995
+r0
+xCompileC
+x./build/BLENDTEST.build/Debug/BLENDTEST.build/Objects-normal/i386/BLENDTESTApp.o
+x/Users/kris/Documents/cinder_0.8.4_mac/lab101/BLENDTEST/xcode/../src/BLENDTESTApp.cpp
+xnormal
+xi386
+xc++
+xcom.apple.compilers.llvm.clang.1_0.compiler
+o/Users/kris/Documents/cinder_0.8.4_mac/lab101/BLENDTEST/xcode/../src/BLENDTESTApp.cpp:17:17: error: field has incomplete type 'gl::Texture'
+o    gl::Texture test1;
+o                ^
+o../../../include/cinder/gl/gl.h:63:25: note: forward declaration of 'cinder::gl::Texture'
+o                 class VboMesh; class Texture;
+o                                      ^
+o/Users/kris/Documents/cinder_0.8.4_mac/lab101/BLENDTEST/xcode/../src/BLENDTESTApp.cpp:18:17: error: field has incomplete type 'gl::Texture'
+o    gl::Texture test2;
+o                ^
+o../../../include/cinder/gl/gl.h:63:25: note: forward declaration of 'cinder::gl::Texture'
+o                 class VboMesh; class Texture;
+o                                      ^
+o2 errors generated.
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection93"Compile /Users/kris/Documents/cinder_0.8.4_mac/lab101/BLENDTEST/xcode/../src/BLENDTESTApp.cpp944f7398c32cb641^d863869bc32cb641^-736"/Users/kris/Documents/cinder_0.8.4_mac/lab101/BLENDTEST/xcode/../src/BLENDTESTApp.cpp:17:17: error: field has incomplete type 'gl::Texture'    gl::Texture test1;                ^../../../include/cinder/gl/gl.h:63:25: note: forward declaration of 'cinder::gl::Texture'                 class VboMesh; class Texture;                                      ^/Users/kris/Documents/cinder_0.8.4_mac/lab101/BLENDTEST/xcode/../src/BLENDTESTApp.cpp:18:17: error: field has incomplete type 'gl::Texture'    gl::Texture test2;                ^../../../include/cinder/gl/gl.h:63:25: note: forward declaration of 'cinder::gl::Texture'                 class VboMesh; class Texture;                                      ^2 errors generated.2(36%IDEClangDiagnosticActivityLogMessage2@39"Field has incomplete type 'gl::Texture'-372032411#18446744073709551615#0#1(2@44"Forward declaration of 'cinder::gl::Texture'-372032411#18446744073709551615#0#-0#27"com.apple.dt.IDE.diagnostic23%DVTTextDocumentLocation3@77"file://localhost/Users/kris/Documents/cinder_0.8.4_mac/include/cinder/gl/gl.h0000000000000000^62#24#62#24#2208#0#30"Apple LLVM compiler 4.1 Notice--2#27"com.apple.dt.IDE.diagnostic3@92"file://localhost/Users/kris/Documents/cinder_0.8.4_mac/lab101/BLENDTEST/src/BLENDTESTApp.cpp0000000000000000^16#16#16#16#313#0#14"Semantic Issue--2@39"Field has incomplete type 'gl::Texture'-372032411#18446744073709551615#0#1(2@44"Forward declaration of 'cinder::gl::Texture'-372032411#18446744073709551615#0#-0#27"com.apple.dt.IDE.diagnostic3@77"file://localhost/Users/kris/Documents/cinder_0.8.4_mac/include/cinder/gl/gl.h0000000000000000^62#24#62#24#2208#0#30"Apple LLVM compiler 4.1 Notice--2#27"com.apple.dt.IDE.diagnostic3@92"file://localhost/Users/kris/Documents/cinder_0.8.4_mac/lab101/BLENDTEST/src/BLENDTESTApp.cpp0000000000000000^17#16#17#16#336#0#14"Semantic Issue--0#0#0#-19%DVTDocumentLocation4@101"file://localhost/Users/kris/Documents/cinder_0.8.4_mac/lab101/BLENDTEST/xcode/../src/BLENDTESTApp.cpp0000000000000000^2919"CompileC ./build/BLENDTEST.build/Debug/BLENDTEST.build/Objects-normal/i386/BLENDTESTApp.o ../src/BLENDTESTApp.cpp normal i386 c++ com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/kris/Documents/cinder_0.8.4_mac/lab101/BLENDTEST/xcode    setenv LANG en_US.US-ASCII    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x c++ -arch i386 -fmessage-length=0 -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wno-non-virtual-dtor -Wno-overloaded-virtual -Wno-exit-time-destructors -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wno-empty-body -Wno-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-shorten-64-to-32 -Wno-newline-eof -Wno-c++11-extensions -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.7.sdk -fasm-blocks -Wdeprecated-declarations -Winvalid-offsetof -mmacosx-version-min=10.5 -g -Wno-sign-conversion -iquote /Users/kris/Documents/cinder_0.8.4_mac/lab101/BLENDTEST/xcode/./build/BLENDTEST.build/Debug/BLENDTEST.build/BLENDTEST-generated-files.hmap -I/Users/kris/Documents/cinder_0.8.4_mac/lab101/BLENDTEST/xcode/./build/BLENDTEST.build/Debug/BLENDTEST.build/BLENDTEST-own-target-headers.hmap -I/Users/kris/Documents/cinder_0.8.4_mac/lab101/BLENDTEST/xcode/./build/BLENDTEST.build/Debug/BLENDTEST.build/BLENDTEST-all-target-headers.hmap -iquote /Users/kris/Documents/cinder_0.8.4_mac/lab101/BLENDTEST/xcode/./build/BLENDTEST.build/Debug/BLENDTEST.build/BLENDTEST-project-headers.hmap -iquote../../../include -iquote../include -I/Users/kris/Documents/cinder_0.8.4_mac/lab101/BLENDTEST/xcode/build/Debug/include -I../../../boost -I/Users/kris/Documents/cinder_0.8.4_mac/lab101/BLENDTEST/xcode/./build/BLENDTEST.build/Debug/BLENDTEST.build/DerivedSources/i386 -I/Users/kris/Documents/cinder_0.8.4_mac/lab101/BLENDTEST/xcode/./build/BLENDTEST.build/Debug/BLENDTEST.build/DerivedSources -F/Users/kris/Documents/cinder_0.8.4_mac/lab101/BLENDTEST/xcode/build/Debug -include /var/folders/8b/4jhs3f817pz6q55x667zj7hh0000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/BLENDTEST_Prefix-cmpmricqbubfwtdtqqiedyaqedrc/BLENDTEST_Prefix.pch -MMD -MT dependencies -MF /Users/kris/Documents/cinder_0.8.4_mac/lab101/BLENDTEST/xcode/./build/BLENDTEST.build/Debug/BLENDTEST.build/Objects-normal/i386/BLENDTESTApp.d --serialize-diagnostics /Users/kris/Documents/cinder_0.8.4_mac/lab101/BLENDTEST/xcode/./build/BLENDTEST.build/Debug/BLENDTEST.build/Objects-normal/i386/BLENDTESTApp.dia -c /Users/kris/Documents/cinder_0.8.4_mac/lab101/BLENDTEST/xcode/../src/BLENDTESTApp.cpp -o /Users/kris/Documents/cinder_0.8.4_mac/lab101/BLENDTEST/xcode/./build/BLENDTEST.build/Debug/BLENDTEST.build/Objects-normal/i386/BLENDTESTApp.o36"1C35178F-44EB-49D3-AB38-D01417667261-
+
+CCpResource CinderApp.icns ./build/Debug/BLENDTEST.app/Contents/Resources/CinderApp.icns
+s372032408.352278
+e372032408.361647
+r1
+xCpResource
+xCinderApp.icns
+x./build/Debug/BLENDTEST.app/Contents/Resources/CinderApp.icns
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection66"Copy ./build/Debug/BLENDTEST.app/Contents/Resources/CinderApp.icns37525a98c32cb641^a3cb6398c32cb641^---0#0#0#-19%DVTDocumentLocation2@139"file://localhost/Users/kris/Documents/cinder_0.8.4_mac/lab101/BLENDTEST/xcode/./build/Debug/BLENDTEST.app/Contents/Resources/CinderApp.icns000000000080d041^455"CpResource CinderApp.icns ./build/Debug/BLENDTEST.app/Contents/Resources/CinderApp.icns    cd /Users/kris/Documents/cinder_0.8.4_mac/lab101/BLENDTEST/xcode    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/kris/Documents/cinder_0.8.4_mac/lab101/BLENDTEST/xcode/CinderApp.icns /Users/kris/Documents/cinder_0.8.4_mac/lab101/BLENDTEST/xcode/./build/Debug/BLENDTEST.app/Contents/Resources36"9CCF7F54-CFEA-4C47-BF08-625D989B8A5E-
+
+CLd /Users/kris/Documents/cinder_0.8.4_mac/lab101/BLENDTEST/xcode/./build/Debug/BLENDTEST.app/Contents/MacOS/BLENDTEST normal i386
+r0
+
+CProcessInfoPlistFile /Users/kris/Documents/cinder_0.8.4_mac/lab101/BLENDTEST/xcode/./build/Debug/BLENDTEST.app/Contents/Info.plist Info.plist
+s372032408.338794
+e372032408.343082
+r1
+xProcessInfoPlistFile
+x/Users/kris/Documents/cinder_0.8.4_mac/lab101/BLENDTEST/xcode/./build/Debug/BLENDTEST.app/Contents/Info.plist
+xInfo.plist
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection18"Process Info.plist77d65698c32cb641^ca315998c32cb641^---0#0#0#-19%DVTDocumentLocation2@88"file://localhost/Users/kris/Documents/cinder_0.8.4_mac/lab101/BLENDTEST/xcode/Info.plist0000000000000000^459"ProcessInfoPlistFile ./build/Debug/BLENDTEST.app/Contents/Info.plist Info.plist    cd /Users/kris/Documents/cinder_0.8.4_mac/lab101/BLENDTEST/xcode    builtin-infoPlistUtility Info.plist -genpkginfo /Users/kris/Documents/cinder_0.8.4_mac/lab101/BLENDTEST/xcode/./build/Debug/BLENDTEST.app/Contents/PkgInfo -expandbuildsettings -platform macosx -o /Users/kris/Documents/cinder_0.8.4_mac/lab101/BLENDTEST/xcode/./build/Debug/BLENDTEST.app/Contents/Info.plist36"1E8C1E9A-C4C4-4047-B960-6D9969A183F1-
+
+CProcessPCH++ /Users/kris/Library/Developer/Xcode/DerivedData/BLENDTEST-aelcqouqubosaweiewgujlsiebps/Index/PrecompiledHeaders/BLENDTEST_Prefix-apblxkxiqxxebgdhlfayrltjcspa_ast/BLENDTEST_Prefix.pch.pth BLENDTEST_Prefix.pch normal i386 c++ com.apple.compilers.llvm.clang.1_0.astbuilder
+r0
+
+CProcessPCH++ /var/folders/8b/4jhs3f817pz6q55x667zj7hh0000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/BLENDTEST_Prefix-cmpmricqbubfwtdtqqiedyaqedrc/BLENDTEST_Prefix.pch.pth BLENDTEST_Prefix.pch normal i386 c++ com.apple.compilers.llvm.clang.1_0.compiler
+s372032408.375955
+e372032408.443019
+r1
+xProcessPCH++
+x/var/folders/8b/4jhs3f817pz6q55x667zj7hh0000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/BLENDTEST_Prefix-cmpmricqbubfwtdtqqiedyaqedrc/BLENDTEST_Prefix.pch.pth
+xBLENDTEST_Prefix.pch
+xnormal
+xi386
+xc++
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection31"Precompile BLENDTEST_Prefix.pch11706098c32cb641^47ac7198c32cb641^---0#0#0#-19%DVTDocumentLocation2@98"file://localhost/Users/kris/Documents/cinder_0.8.4_mac/lab101/BLENDTEST/xcode/BLENDTEST_Prefix.pch0000000000000000^2900"ProcessPCH++ /var/folders/8b/4jhs3f817pz6q55x667zj7hh0000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/BLENDTEST_Prefix-cmpmricqbubfwtdtqqiedyaqedrc/BLENDTEST_Prefix.pch.pth BLENDTEST_Prefix.pch normal i386 c++ com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/kris/Documents/cinder_0.8.4_mac/lab101/BLENDTEST/xcode    setenv LANG en_US.US-ASCII    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x c++-header -arch i386 -fmessage-length=0 -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wno-non-virtual-dtor -Wno-overloaded-virtual -Wno-exit-time-destructors -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wno-empty-body -Wno-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-shorten-64-to-32 -Wno-newline-eof -Wno-c++11-extensions -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.7.sdk -fasm-blocks -Wdeprecated-declarations -Winvalid-offsetof -mmacosx-version-min=10.5 -g -Wno-sign-conversion -iquote /Users/kris/Documents/cinder_0.8.4_mac/lab101/BLENDTEST/xcode/./build/BLENDTEST.build/Debug/BLENDTEST.build/BLENDTEST-generated-files.hmap -I/Users/kris/Documents/cinder_0.8.4_mac/lab101/BLENDTEST/xcode/./build/BLENDTEST.build/Debug/BLENDTEST.build/BLENDTEST-own-target-headers.hmap -I/Users/kris/Documents/cinder_0.8.4_mac/lab101/BLENDTEST/xcode/./build/BLENDTEST.build/Debug/BLENDTEST.build/BLENDTEST-all-target-headers.hmap -iquote /Users/kris/Documents/cinder_0.8.4_mac/lab101/BLENDTEST/xcode/./build/BLENDTEST.build/Debug/BLENDTEST.build/BLENDTEST-project-headers.hmap -iquote../../../include -iquote../include -I/Users/kris/Documents/cinder_0.8.4_mac/lab101/BLENDTEST/xcode/build/Debug/include -I../../../boost -I/Users/kris/Documents/cinder_0.8.4_mac/lab101/BLENDTEST/xcode/./build/BLENDTEST.build/Debug/BLENDTEST.build/DerivedSources/i386 -I/Users/kris/Documents/cinder_0.8.4_mac/lab101/BLENDTEST/xcode/./build/BLENDTEST.build/Debug/BLENDTEST.build/DerivedSources -F/Users/kris/Documents/cinder_0.8.4_mac/lab101/BLENDTEST/xcode/build/Debug --serialize-diagnostics /var/folders/8b/4jhs3f817pz6q55x667zj7hh0000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/BLENDTEST_Prefix-cmpmricqbubfwtdtqqiedyaqedrc/BLENDTEST_Prefix.pch.dia -c /Users/kris/Documents/cinder_0.8.4_mac/lab101/BLENDTEST/xcode/BLENDTEST_Prefix.pch -o /var/folders/8b/4jhs3f817pz6q55x667zj7hh0000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/BLENDTEST_Prefix-cmpmricqbubfwtdtqqiedyaqedrc/BLENDTEST_Prefix.pch.pth -MMD -MT dependencies -MF /var/folders/8b/4jhs3f817pz6q55x667zj7hh0000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/BLENDTEST_Prefix-cmpmricqbubfwtdtqqiedyaqedrc/BLENDTEST_Prefix.pch.d36"F0C547A3-64C7-45E3-B153-1E04B5FA6052-
+
+CTouch /Users/kris/Documents/cinder_0.8.4_mac/lab101/BLENDTEST/xcode/./build/Debug/BLENDTEST.app
+r0
+
