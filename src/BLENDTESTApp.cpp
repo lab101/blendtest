@@ -130,13 +130,14 @@ void BLENDTESTApp::draw()
     glColor3f(1, 1, 1);    
 
     gl::enableAlphaBlending();
+    gl::draw(test1,Vec2f(0,30));
     
     glDisable(GL_DEPTH_TEST);
+    glDisable(GL_ALPHA_TEST);
     glEnable( GL_BLEND );
     glBlendFunc(blends[blendsSRCIndex], blends[blendsIndex]);
 
     
-    gl::draw(test1,Vec2f(0,30));
     gl::draw(test2,Vec2f(200,30));
     
     // reset to default blending mode // glBlendFunc( GL_ONE, GL_ONE_MINUS_SRC_ALPHA );
